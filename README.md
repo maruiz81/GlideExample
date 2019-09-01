@@ -1,3 +1,3 @@
-# Koin-Example
+# Glide Example
 
-An example of Dependency Injection with Koin
+An example of image loading with Glide to measure the performance
