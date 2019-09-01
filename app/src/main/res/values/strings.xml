@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Glide Example</string>
+    <string name="error">Error in the Request</string>
+</resources>
